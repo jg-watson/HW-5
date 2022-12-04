@@ -11,3 +11,4 @@ Utilizes Moment.js as a date and time library, Bootstrap for CSS features, and j
 
 
 ## Image 
+![Deployed Image](./Develop/Assets/workDayScheduler_two.png)
